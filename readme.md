@@ -5,10 +5,10 @@ This is a Excel VBA toolset that calculates the minimal distance between hole an
 ## Preview
 
 Option 1
-![option 1](https://github.com/doughtyphilipe/Geometrische-Anforderungen-an-Augenst-be/blob/main/Moeglichkeit1.png?raw=true)
+![option 1](https://github.com/doughtyphilipe/Geometrische-Anforderungen-an-Augenst-be/blob/main/Moeglichkeit1.PNG)
 
 Option 2
-![option 2](https://github.com/doughtyphilipe/Geometrische-Anforderungen-an-Augenst-be/blob/main/Moeglichkeit2.png?raw=true)
+![option 2](https://github.com/doughtyphilipe/Geometrische-Anforderungen-an-Augenst-be/blob/main/Moeglichkeit2.PNG)
 
 
 ## Installation

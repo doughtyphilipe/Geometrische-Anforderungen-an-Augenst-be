@@ -2,14 +2,10 @@
 
 This is a Excel VBA toolset that calculates the minimal distance between hole and wall on an eyebar according to DIN EN 1993.
 
-## Preview
+## Preview and usage
 
-Option 1
-![option 1](https://github.com/doughtyphilipe/Geometrische-Anforderungen-an-Augenst-be/blob/main/Moeglichkeit1.PNG)
-
-Option 2
-![option 2](https://github.com/doughtyphilipe/Geometrische-Anforderungen-an-Augenst-be/blob/main/Moeglichkeit2.PNG)
-
+Usage
+![usage](https://github.com/doughtyphilipe/Geometrische-Anforderungen-an-Augenst-be/blob/main/geometrischeanf.gif)
 
 ## Installation
 

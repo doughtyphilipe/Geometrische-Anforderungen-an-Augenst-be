@@ -5,7 +5,7 @@ This is a Excel VBA toolset that calculates the minimal distance between hole an
 ## Preview and usage
 
 Usage
-![usage](https://github.com/doughtyphilipe/Geometrische-Anforderungen-an-Augenst-be/blob/main/geometrischeanf.gif)
+![geometrischeanf](https://user-images.githubusercontent.com/123315352/224512237-f9a30b3e-7e52-43da-9ed1-664cc1de5bfa.gif)
 
 ## Installation
 

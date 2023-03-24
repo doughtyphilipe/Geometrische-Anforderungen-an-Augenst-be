@@ -9,7 +9,7 @@ Dieses Repository enthält ein Excel VBA Tool zur Berechnung der minimalen verti
 
 ## Installation
 
-You need an Excel license for this code to run. Then follow [this](https://www.excelcampus.com/vba/enable-developer-tab/) tutorial in order to show the Developer Tab on your Excel ribbon.
+Für die Ausführung dieses Codes benötigen Sie eine Excel-Lizenz. Befolgen Sie anschließend [dieses](https://www.excelcampus.com/vba/enable-developer-tab/) Tutorial, um den Entwickler-Tab in Ihrem Excel-Menüband anzuzeigen.
 
 ## Funktionen
 Berechnung der minimalen vertikalen und horizontalen Abstände von einer Bohrung zu der Wand nach DIN EN 1993
@@ -26,7 +26,8 @@ Möglichkeit B
 gamma_M0: Sicherheitsbeiwert
 Streckgrenze fy [N/mm²]: Streckgrenze des Materials
 Kraft F_ed [N]: Beanspruchte Kraft
-Anwendung
+
+## Anwendung
 Öffnen Sie die Excel-Datei und klicken Sie auf den Button "Geometrische Anforderungen an Augenstäben berechnen".
 Wählen Sie die gewünschte Berechnungsmöglichkeit (A oder B) und geben Sie die erforderlichen Eingangsparameter ein.
 Klicken Sie auf die Schaltfläche "Maße berechnen", um die minimalen vertikalen und horizontalen Abstände von einer Bohrung zu der Wand zu berechnen.
@@ -36,7 +37,7 @@ Um das Tool zu schließen, klicken Sie auf die Schaltfläche "Schließen".
 
 
 
-##Lizenz
+## Lizenz
 Dieses Projekt steht unter der MIT-Lizenz - siehe die LICENSE Datei für Details.
 
 ## Haftungsausschluss

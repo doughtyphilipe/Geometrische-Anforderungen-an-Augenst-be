@@ -1,5 +1,7 @@
 # Geometrische Anforderungen an Augenstäben
 
+for English version refer to [this](https://github.com/doughtyphilipe/Geometric-Requirements-for-eye-rods) repository.
+
 Dieses Repository enthält ein Excel VBA Tool zur Berechnung der minimalen vertikalen und horizontalen Abstände von einer Bohrung zu der Wand, basierend auf den Anforderungen der DIN EN 1993. Das Tool bietet zwei Berechnungsmöglichkeiten (A und B) und ist in Microsoft Excel implementiert, um eine einfache und benutzerfreundliche Oberfläche für Ingenieure und Techniker bereitzustellen.
 
 ## Preview
